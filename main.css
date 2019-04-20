@@ -1,11 +1,37 @@
 a {
-  color: yellow;
+  color: #FFCB05;
 }
 
 .jumbotron {
-  background-color: yellow;
+  background-color: #FFCB05
+
 }
 
 body {
-  background-color: blue;
+  background-color: #00274C
+}
+.col-sm-4{
+  color: #FFCB05
+}
+
+.col-sm-12{
+color: #00274C
+
+
+}
+
+h1{
+  color: #00274C
+}
+
+h2{
+  color: #FFCB05
+}
+
+
+img {
+   border:1px solid #FFCB05;
+}
+p{
+color: #FFCB05
 }
